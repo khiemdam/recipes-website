@@ -34,10 +34,10 @@ TODO
 TODO
 
 ## To-Do List
-- [ ] Initial Structure
+- [X] Initial Structure
     - [X] Create repository and local directory for project
     - [X] Start README
-    - [ ] Create index.html and boilerplate
+    - [X] Create index.html and boilerplate
 - [ ] Recipe Page
     - [ ] Create recipes directory
     - [ ] Add new html files that will hold recipes
