@@ -17,7 +17,7 @@
 
 ## Motivation
 
-This is an introductory project written in HTML to help me learn how to create a website with a boilerplate, absolute and relative links, and images. The project is also for helping me get in the habit of using github.
+This is an introductory project written in HTML to help me learn how to create a website with a boilerplate, absolute and relative links, and images. The project is also for helping me get in the habit of using github. This is mainly a side hobby to learn more about web development and front end development!
 
 I also learned a bit of markdown in order to make my first README.md (which is this current file).
 
@@ -38,20 +38,21 @@ TODO
     - [X] Create repository and local directory for project
     - [X] Start README
     - [X] Create index.html and boilerplate
-- [ ] Recipe Page
-    - [ ] Create recipes directory
-    - [ ] Add new html files that will hold recipes
-    - [ ] Add relative link to recipes on index.html
-- [ ] First Recipe Page Content
-    - [ ] Add title and image to a recipe page
-    - [ ] Add description
-    - [ ] Add ingredients
-    - [ ] Add instructions
+- [X] Recipe Page
+    - [X] Create recipes directory
+    - [X] Add new html files that will hold recipes
+    - [X] Add relative link to recipes on index.html
+- [X] First Recipe Page Content
+    - [X] Add title and image to a recipe page
+    - [X] Add description
+    - [X] Add ingredients
+    - [X] Add instructions
 - [ ] Add More Recipes
+- [ ] Revisit after learning CSS
 - [ ] Finalize everything on GitHub
 
 ## Status
-I am about to start setting up my index.html, and I have just started my project!
+I finished a basic Cinnamon Rolls Recipe (only using HTML). I am working on adding content to more recipe pages.
 
 ## Credits
 * [I am learning HTML from "The Odin Project"](https://www.theodinproject.com/)
