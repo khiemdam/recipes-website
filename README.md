@@ -1,6 +1,6 @@
 <!-- Shields from shields.io -->
 ![Author][author-shield]
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Handshake][handshake-shield]][handshake-url] [![LeetCode][leetcode-shield]][leetcode-url]
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Handshake][handshake-shield]][handshake-url] [![LeetCode][leetcode-shield]][leetcode-url] ![Status][status-shield]
 
 # HTML Basic Recipes Website
 
@@ -52,7 +52,7 @@ TODO
 - [ ] Finalize everything on GitHub
 
 ## Status
-I finished a basic Cinnamon Rolls Recipe (only using HTML). I am working on adding content to more recipe pages.
+Added carrot cake recipe, and will work on adding images to that page and the home page.
 
 ## Credits
 * [I am learning HTML from "The Odin Project"](https://www.theodinproject.com/)
@@ -67,3 +67,4 @@ I finished a basic Cinnamon Rolls Recipe (only using HTML). I am working on addi
 [handshake-url]: https://app.joinhandshake.com/stu/users/31441591
 [leetcode-shield]: https://img.shields.io/badge/LeetCode-555?style=for-the-badge&logo=leetcode&logoColor=white
 [leetcode-url]: https://leetcode.com/khiemdam/
+[status-shield]: https://img.shields.io/badge/status-WIP-555?style=for-the-badge&color=FFA500
