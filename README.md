@@ -28,10 +28,16 @@ I would like to eventually make my own website portfolio and put other projects 
 * Any IDE (I used VSCode)
 
 ## Installation
-TODO
+Navigate to your desired directory. In your shell/terminal, type in the following:
+```
+git clone https://github.com/khiemdam/HTML-Recipes-Website.git
+```
 
 ## How To Use
-TODO
+To look at my website, use the link: https://khiemdam.github.io/HTML-Recipes-Website/
+Or, you can open the HTML file if you cloned my project.
+
+Follow the recipes and make some desserts!
 
 ## To-Do List
 - [X] Initial Structure
