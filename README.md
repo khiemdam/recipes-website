@@ -47,12 +47,12 @@ TODO
     - [X] Add description
     - [X] Add ingredients
     - [X] Add instructions
-- [ ] Add More Recipes
+- [X] Add More Recipes
 - [ ] Revisit after learning CSS
 - [ ] Finalize everything on GitHub
 
 ## Status
-Added carrot cake recipe, and will work on adding images to that page and the home page.
+Finished writing website in HTML. Will work on making it look good after learning CSS.
 
 ## Credits
 * [I am learning HTML from "The Odin Project"](https://www.theodinproject.com/)
