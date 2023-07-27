@@ -34,7 +34,7 @@ git clone https://github.com/khiemdam/HTML-Recipes-Website.git
 ```
 
 ## How To Use
-To look at my website, use the link: https://khiemdam.github.io/HTML-Recipes-Website/
+To look at my website, use the link: https://khiemdam.github.io/html-recipes-website/
 Or, you can open the HTML file if you cloned my project.
 
 Follow the recipes and make some desserts!
