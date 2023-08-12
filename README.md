@@ -4,7 +4,10 @@
 
 # HTML Basic Recipes Website
 
-### A fully functional website written in HTML filled with my favorite baked goods. This website utilizes absolute and relative links to organize different pages, including a home page and many recipe pages.
+### A fully functional website written in HTML and CSS filled with my favorite baked goods. This website utilizes absolute and relative links to organize different pages, including a home page and many recipe pages.
+
+[Link to my website](https://khiemdam.github.io/recipes-website/)
+![Website Image](./readme-images/website-homepage.png)
 
 ## Table of Contents
 * [Motivation](#motivation)
@@ -17,7 +20,7 @@
 
 ## Motivation
 
-This is an introductory project written in HTML to help me learn how to create a website with a boilerplate, absolute and relative links, and images. The project is also for helping me get in the habit of using github. This is mainly a side hobby to learn more about web development and front end development!
+This is an introductory project written in HTML and CSS to help me learn how to create a website with a boilerplate, absolute and relative links, images, and a style sheet. The project is also for helping me get in the habit of using github. This is mainly a side hobby to learn more about web development and front end development!
 
 I also learned a bit of markdown in order to make my first README.md (which is this current file).
 
@@ -29,12 +32,19 @@ I would like to eventually make my own website portfolio and put other projects 
 
 ## Installation
 Navigate to your desired directory. In your shell/terminal, type in the following:
+
+With SSH Keys:
 ```
-git clone https://github.com/khiemdam/HTML-Recipes-Website.git
+git clone git@github.com:khiemdam/recipes-website.git
+```
+With HTTPS:
+```
+git clone https://github.com/khiemdam/recipes-website.git
 ```
 
+
 ## How To Use
-To look at my website, use the link: https://khiemdam.github.io/html-recipes-website/
+To look at my website, use the link: https://khiemdam.github.io/recipes-website/
 Or, you can open the HTML file if you cloned my project.
 
 Follow the recipes and make some desserts!
@@ -55,15 +65,22 @@ Follow the recipes and make some desserts!
     - [X] Add instructions
 - [X] Add More Recipes
 - [ ] Revisit after learning CSS
+    - [X] Navigation Bar
+    - [X] Footer
+    - [X] Home Page
+    - [ ] Recipe Pages
+    - [ ] About Page
+    - [ ] Contact Page
 - [ ] Finalize everything on GitHub
 
 ## Status
-Finished writing website in HTML. Will work on making it look good after learning CSS.
+Finished home page. Working on styling recipe pages
 
 ## Credits
 * [I am learning HTML from "The Odin Project"](https://www.theodinproject.com/)
 * [WordPress Markdown Reference Sheet](https://wordpress.com/support/markdown-quick-reference/)
 * [Shields and Badges from shields.io](shields.io)
+* [Social Icons](https://fontawesome.com/)
 
 <!-- Links & Images -->
 [author-shield]: https://img.shields.io/badge/Author-Khiem_Dam-555?style=for-the-badge&color=999

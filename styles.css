@@ -16,6 +16,10 @@ nav {
     padding-right: 20px;
     padding-top: 4px;
     padding-bottom: 2px;
+    position: fixed;
+    top: 0;
+    z-index: 1030;
+    box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
 }
 
 nav ul {
@@ -109,4 +113,215 @@ nav .active {
     margin-right: auto;
     margin-top: 15px;
     margin-bottom: 10px;
+}
+
+.home-image {
+    width: 100%;
+    height: 500px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./recipes-images/rolling-dough.jpg);
+    background-attachment: fixed;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-image h1 {
+    font-size: 60px;
+}
+
+.spacer-yellow {
+    background-color: #eebc77;
+    width: 100%;
+    height: 50px;
+    box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.2);
+    position: relative;
+}
+
+.spacer-white {
+    background-color: #ffeaae;
+    width: 100%;
+    height: 200px;
+    /* box-shadow: 0px 0px 16px 0px rgba(0,0,0,0.2); */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.recipe-block {
+    background-color: #ffeaae;
+    /* position: absolute; */
+    /* overflow: hidden;
+    height: auto;
+    width: 100%;
+    top: 0px; */
+    display: flex;
+    justify-content: space-between;
+}
+
+.home-carrot-cake {
+    display: flex;
+    width: 50%;
+    height: 300px;
+    background-position: center left;
+    background-size: cover;
+    background-image: url(./recipes-images/carrot-cake.jpg);
+    background-attachment: fixed;
+    color: white;
+    float: left;
+}
+
+.home-cinnamon-rolls {
+    display: flex;
+    width: 50%;
+    height: 300px;
+    background-position: center right;
+    background-size: cover;
+    background-image: url(./recipes-images/cinnamon-rolls.jpg);
+    background-attachment: fixed;
+    color: white;
+    float: right;
+}
+
+.home-choc-cookies {
+    display: flex;
+    width: 50%;
+    height: 300px;
+    background-position: center;
+    background-size: cover;
+    background-image: url(./recipes-images/chocolate-chip-cookies.jpg);
+    background-attachment: fixed;
+    color: white;
+    float: left;
+}
+
+.text-right-align {
+    display: flex;
+    width: 50%;
+    height: 300px;
+    color: white;
+    float: right;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-right-align h2 {
+    font-size: 50px;
+}
+
+.text-right-align .recipe-button {
+    color: #ffffff;
+    background-color: #eebc77;
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.text-right-align .recipe-button:hover {
+    background-color: #fef8e7;
+    color: black;
+}
+
+.text-left-align {
+    display: flex;
+    width: 50%;
+    height: 300px;
+    color: white;
+    float: left;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.text-left-align h2 {
+    font-size: 50px;
+}
+
+.text-left-align .recipe-button {
+    color: #ffffff;
+    background-color: #eebc77;
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.text-left-align .recipe-button:hover {
+    background-color: #fef8e7;
+    color: black;
+}
+
+.about-button {
+    color: #ffffff;
+    background-color: #fbd796;
+    display: block;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 15px;
+    padding-right: 15px;
+    text-decoration: none;
+    font-size: 30px;
+}
+
+.about-button:hover {
+    background-color: #fef8e7;
+    color: black;
+}
+
+footer {
+    /* margin-top: 150px; */
+    width: 100%;
+    padding: 100px 15%;
+    background-color: #fbd796;
+    color: white;
+    display: flex;
+}
+
+footer div {
+    text-align: center;
+}
+
+footer div h3 {
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: 1px;
+}
+
+.col-1 {
+    float: left;
+    width: 50%;
+}
+
+.col-1 a {
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 10px;
+}
+
+.col-2 {
+    float: right;
+    width: 50%;
+}
+
+.social-icons {
+    margin-top: 30px;
+}
+
+.social-icons i {
+    font-size: 22px;
+    margin: 10px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
 }
