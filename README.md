@@ -2,11 +2,12 @@
 ![Author][author-shield]
 [![LinkedIn][linkedin-shield]][linkedin-url] [![Handshake][handshake-shield]][handshake-url] [![LeetCode][leetcode-shield]][leetcode-url] ![Status][status-shield]
 
-# HTML Basic Recipes Website
+# Baked Goods Recipes Website
 
-### A fully functional website written in HTML and CSS filled with my favorite baked goods. This website utilizes absolute and relative links to organize different pages, including a home page and many recipe pages.
+### A fully functional website written in HTML and CSS filled with my favorite baked goods. This website utilizes absolute and relative links to organize different pages, including a home page and many recipe pages. It also makes use of classes and different CSS elements to add life to the website!
 
 [Link to my website](https://khiemdam.github.io/recipes-website/)
+
 ![Website Image](./readme-images/website-homepage.png)
 
 ## Table of Contents
