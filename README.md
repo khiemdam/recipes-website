@@ -69,13 +69,13 @@ Follow the recipes and make some desserts!
     - [X] Navigation Bar
     - [X] Footer
     - [X] Home Page
-    - [ ] Recipe Pages
+    - [X] Recipe Pages
     - [ ] About Page
     - [ ] Contact Page
 - [ ] Finalize everything on GitHub
 
 ## Status
-Finished home page. Working on styling recipe pages
+Finished recipe pages. Working on styling about and contact pages
 
 ## Credits
 * [I am learning HTML from "The Odin Project"](https://www.theodinproject.com/)
