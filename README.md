@@ -70,12 +70,12 @@ Follow the recipes and make some desserts!
     - [X] Footer
     - [X] Home Page
     - [X] Recipe Pages
-    - [ ] About Page
-    - [ ] Contact Page
-- [ ] Finalize everything on GitHub
+    - [X] About Page
+    - [X] Contact Page
+- [X] Finalize everything on GitHub
 
 ## Status
-Finished recipe pages. Working on styling about and contact pages
+Finished everything! Maybe revisit with JavaScript to make website cooler...
 
 ## Credits
 * [I am learning HTML from "The Odin Project"](https://www.theodinproject.com/)
@@ -89,4 +89,4 @@ Finished recipe pages. Working on styling about and contact pages
 [linkedin-url]: https://www.linkedin.com/in/khiemd/
 [handshake-shield]: https://img.shields.io/badge/Handshake-555?style=for-the-badge&logo=handshake&logoColor=white
 [handshake-url]: https://app.joinhandshake.com/stu/users/31441591
-[status-shield]: https://img.shields.io/badge/status-WIP-555?style=for-the-badge&color=FFA500
+[status-shield]: https://img.shields.io/badge/status-completed?style=for-the-badge&label=completed&labelColor=555&color=03c04a
