@@ -65,7 +65,7 @@ Follow the recipes and make some desserts!
     - [X] Add ingredients
     - [X] Add instructions
 - [X] Add More Recipes
-- [ ] Revisit after learning CSS
+- [X] Revisit after learning CSS
     - [X] Navigation Bar
     - [X] Footer
     - [X] Home Page
