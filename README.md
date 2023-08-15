@@ -1,6 +1,6 @@
 <!-- Shields from shields.io -->
 ![Author][author-shield]
-[![LinkedIn][linkedin-shield]][linkedin-url] [![Handshake][handshake-shield]][handshake-url] [![LeetCode][leetcode-shield]][leetcode-url] ![Status][status-shield]
+[![LinkedIn][linkedin-shield]][linkedin-url] [![Handshake][handshake-shield]][handshake-url] ![Status][status-shield]
 
 # Baked Goods Recipes Website
 
@@ -89,6 +89,4 @@ Finished recipe pages. Working on styling about and contact pages
 [linkedin-url]: https://www.linkedin.com/in/khiemd/
 [handshake-shield]: https://img.shields.io/badge/Handshake-555?style=for-the-badge&logo=handshake&logoColor=white
 [handshake-url]: https://app.joinhandshake.com/stu/users/31441591
-[leetcode-shield]: https://img.shields.io/badge/LeetCode-555?style=for-the-badge&logo=leetcode&logoColor=white
-[leetcode-url]: https://leetcode.com/khiemdam/
 [status-shield]: https://img.shields.io/badge/status-WIP-555?style=for-the-badge&color=FFA500
