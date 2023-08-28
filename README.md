@@ -89,4 +89,5 @@ Finished everything! Maybe revisit with JavaScript to make website cooler...
 [linkedin-url]: https://www.linkedin.com/in/khiemd/
 [handshake-shield]: https://img.shields.io/badge/Handshake-555?style=for-the-badge&logo=handshake&logoColor=white
 [handshake-url]: https://app.joinhandshake.com/stu/users/31441591
-[status-shield]: https://img.shields.io/badge/status-completed?style=for-the-badge&label=completed&labelColor=555&color=03c04a
+[status-shield]: https://img.shields.io/badge/status-completed-555?style=for-the-badge&labelColor=555&color=03c04a
+
